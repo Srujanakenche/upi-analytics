@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# generated data (rebuilt by the scripts)
+data/processed/*.csv
+data/sample/*.csv
+
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
