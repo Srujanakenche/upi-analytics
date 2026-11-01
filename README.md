@@ -45,15 +45,15 @@ python src/forecast.py             # backtest + 6-month forecast
 ```
 
 ## Progress checklist
-- [ ] Step 1: Repo and project skeleton
-- [ ] Step 2: PostgreSQL and Python environment
-- [ ] Step 3: Database and tables created
-- [ ] Step 4: Pipeline tested with sample data
-- [ ] Step 5: Real NPCI data collected and loaded
-- [ ] Step 6: SQL analysis
-- [ ] Step 7: Forecast
-- [ ] Step 8: Power BI dashboard
-- [ ] Step 9: Insights and README finished
+- [x] Step 1: Repo and project skeleton
+- [x] Step 2: PostgreSQL and Python environment
+- [x] Step 3: Database and tables created
+- [x] Step 4: Pipeline tested with sample data
+- [x] Step 5: Real NPCI data collected and loaded
+- [x] Step 6: SQL analysis
+- [x] Step 7: Forecast
+- [x] Step 8: Power BI dashboard
+- [x] Step 9: Insights and README finished
 
 ## Data
 Source: NPCI UPI statistics (add the exact page URL and download date here).
